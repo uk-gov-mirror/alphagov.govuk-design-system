@@ -63,7 +63,7 @@ Our research showed that participants were broadly positive about introducing li
 
 Users:
 
-- understood the meaning of the ‘Trial’ status tag
+- understood the meaning of the trial status tag
 - appreciated greater transparency about which components we were working on
 - wanted guidance on how to use trial components in services
 
