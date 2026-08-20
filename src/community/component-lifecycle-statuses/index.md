@@ -50,7 +50,7 @@ We encourage you to:
 - use trial components in your service if they meet user needs
 - tell us how you’re using trial components to help us improve them
 
-All the components we publish are usable and accessible in the most common use cases. However, components with a ‘Trial’ status tag may:
+All the components we publish are usable and accessible in the most common use cases. However, components with a trial status tag may:
 
 - change substantially, meaning you may need to do further work to continue using them
 - become deprecated after the trial period
