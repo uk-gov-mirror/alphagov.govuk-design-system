@@ -28,7 +28,7 @@ The guidance page for each trial component has a trial status tag and message:
 
 {{ example({ group: "community", item: "component-lifecycle-statuses", example: "default", loading: "eager" }) }}
 
-We use ‘Trial’ status when we release components (or variants of components) that might not meet all our [contribution criteria](/community/contribution-criteria/). We do this for components or variants that:
+We use trial status when we release components (or variants of components) that might not meet all our [contribution criteria](/community/contribution-criteria/). We do this for components or variants that:
 
 - are new or have significantly changed
 - are potentially valuable but need further testing in services
