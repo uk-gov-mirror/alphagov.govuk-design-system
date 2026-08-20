@@ -39,7 +39,7 @@ We release trial components or variants to:
 - get feedback from the community
 - allow services to test the components with users
 
-These components need feedback from the community to move to ‘Stable’ status. For more information on the type of feedback we need, see the ‘Research on this component’ section of each trial component.
+These components need feedback from the community to move to stable status. For more information on the type of feedback we need, see the ‘Research on this component’ section of each trial component.
 
 Components that have been in trial status for 6 months will move to ‘Stable’ status if we do not receive any negative feedback.
 
