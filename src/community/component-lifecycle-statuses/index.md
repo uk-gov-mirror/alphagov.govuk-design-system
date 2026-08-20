@@ -24,7 +24,7 @@ We currently use 2 component statuses on the GOV.UK Design System website:
 
 ## Trial components
 
-The guidance page for each trial component has a 'Trial' status tag and message:
+The guidance page for each trial component has a trial status tag and message:
 
 {{ example({ group: "community", item: "component-lifecycle-statuses", example: "default", loading: "eager" }) }}
 
